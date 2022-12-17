@@ -1,0 +1,4 @@
+1. Create User
+2. Create registration
+3. Create messanging
+4. Create groups
